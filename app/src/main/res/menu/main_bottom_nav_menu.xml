@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/people"
+        android:title="시람들"
+        android:icon="@drawable/people_icon"/>
+
+    <item
+        android:id="@+id/myInfo"
+        android:title="내 정보"
+        android:icon="@drawable/profile_icon"/>
+
+</menu>
